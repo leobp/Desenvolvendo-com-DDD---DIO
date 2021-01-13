@@ -1,0 +1,24 @@
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\sidera\Downloads\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sidera\Desktop\projeto DDD - dio\src\Infra\Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete

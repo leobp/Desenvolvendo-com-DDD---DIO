@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGjiJnZpyFBwfIX+dZSN1zYnIyH/qvmpAA0syR6iZM4VKhvM1GuPNy6V/Qr61RdY/GUmrixbcPDRJdgAv5jz9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sidera\\Desktop\\projeto DDD - dio\\src\\Infra\\Shared\\Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidera\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sidera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
